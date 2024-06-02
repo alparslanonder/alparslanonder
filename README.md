@@ -1,4 +1,5 @@
 ## Hi there 👋
+Welcome to my GitHub repository! Here, you'll find a collection of projects and tools reflecting my journey as a passionate neuroscience researcher and biomedical engineer. From innovative solutions in medical image analysis to cutting-edge applications of machine learning algorithms, each project embodies my dedication to unraveling the mysteries of the human brain and advancing healthcare technologies. I invite you to explore these repositories, where I leverage my expertise in neurosignal analysis, data processing, and interdisciplinary research to address critical challenges in cognitive neuroscience and clinical diagnostics. Join me on this exciting journey as we strive to make meaningful contributions to the fields of biomedical engineering and computational neuroscience.
 
 <!--
 **alparslanonder/alparslanonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
