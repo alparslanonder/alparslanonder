@@ -1,16 +1,20 @@
-About Me
-I'm a passionate neuroscientist and biomedical engineer with a strong focus on computational neuroscience, neurosignal analysis, and medical image analysis. My academic journey has led me to explore the intricate workings of the brain through advanced signal processing techniques, machine learning algorithms, and interdisciplinary research collaboration.
+## Hi there 👋
+🧠 Welcome to my GitHub! I'm Alparslan Önder, a passionate neuroscience researcher and biomedical engineer with a keen interest in exploring the complexities of the human brain. My academic journey has taken me through both a Bachelor's and Master's degree in Biomedical Engineering, where I specialized in electronics, data processing, and programming. With a focus on computational neuroscience, I've delved into advanced signal processing techniques and machine learning methodologies, particularly in the realm of medical image analysis. My research experience spans diverse projects, from developing spike sorting algorithms for real-time operation to investigating the effects of cognitive impairment on EEG signals in dementia patients. I thrive on interdisciplinary collaboration and am dedicated to leveraging technology to advance our understanding of neurocognitive disorders. Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
-What You'll Find Here
-In this repository, you'll find a collection of my personal projects, research endeavors, and contributions to open-source initiatives. From EEG data analysis scripts to machine learning models for medical image analysis, each project reflects my commitment to leveraging technology to unravel the mysteries of the human mind and improve healthcare outcomes.
+--- 
 
-Projects Highlights
-EEG Signal Analysis: Dive into my scripts and algorithms for EEG signal processing, including spike sorting, power spectral density analysis, and event-related potential detection.
-Medical Image Analysis: Explore my work in medical image analysis, from segmentation algorithms to classification models for diagnostic purposes.
-Interdisciplinary Research: Discover collaborative projects where I've combined neuroscience insights with machine learning techniques to address real-world challenges in healthcare.
-Get in Touch
-I'm always eager to connect with fellow researchers, developers, and enthusiasts passionate about neuroscience, biomedical engineering, and machine learning. Whether you're interested in collaborating on a project or discussing the latest advancements in the field, feel free to reach out!
+<!--Feel free to adjust any parts to better fit your style or specific preferences!
+<!--
+**alparslanonder/alparslanonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Connect with me on LinkedIn or drop me an email.
+Here are some ideas to get you started:
 
-Let's innovate together and make a positive impact on the world of healthcare!
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
