@@ -25,7 +25,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-- [![Mne](https://img.shields.io/badge/Mne-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAIAAADZiLoqAAAACXBIWXMAABcSAAAXEgFnn9JSAAAACXZwQWcAAAAQAAAACABlWxi9AAAAJUlEQVQI12P4z8CQCQpISaNAEqBrXPAqQGg6wDlBr1c2AI1Dk2sAAAAASUVORK5CYII=&logoColor=white)](https://mne.tools/stable/index.html)
+- [![Mne](https://img.shields.io/badge/MNE-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://mne.tools/stable/index.html)
 
 ### Other Tools
 - [![Proteus Design Suite](https://img.shields.io/badge/Proteus%20Design%20Suite-ED8B00?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.labcenter.com/)
