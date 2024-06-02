@@ -1,14 +1,56 @@
 <div class="column">
   <div class="row">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvdzNqNG55NHhoeXVjN3A3enBjcnhweXVpazltcGNzeWl6dWZuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvW7RNQX12CyjlYw1/giphy.gif" width="200"/>
+    
   </div>
   <div class="row">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxc3liMDlzbWx0YnllcnBiN3F2ZjJmMmFraDV2amhueTBwbzd3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33E8cPzWfElDHLFNyN/giphy.gif" width="200"/>
+   
   </div>
   <div class="row">
     <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
   </div>
 </div>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<h2>Images Side by Side</h2>
+<p>How to create side-by-side images with the CSS float property:</p>
+
+<div class="row">
+  <div class="column">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvdzNqNG55NHhoeXVjN3A3enBjcnhweXVpazltcGNzeWl6dWZuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvW7RNQX12CyjlYw1/giphy.gif" width="200"/>
+  </div>
+  <div class="column">
+     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxc3liMDlzbWx0YnllcnBiN3F2ZjJmMmFraDV2amhueTBwbzd3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33E8cPzWfElDHLFNyN/giphy.gif" width="200"/>
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+</body>
+</html>
 
 
 ## Hi there 👋
