@@ -15,17 +15,13 @@
 
 - Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxc3liMDlzbWx0YnllcnBiN3F2ZjJmMmFraDV2amhueTBwbzd3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33E8cPzWfElDHLFNyN/giphy.gif" width="200"/>
-</div>
-
 ## Reach me :mailbox_with_mail:
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alparslanonder/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
-  <a href="alparslanonder@outlook.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  <a href="">
+    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
   </a>
 </div>
 
