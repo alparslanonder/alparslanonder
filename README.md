@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3lxc3liMDlzbWx0YnllcnBiN3F2ZjJmMmFraDV2amhueTBwbzd3ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/33E8cPzWfElDHLFNyN/giphy.gif" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmZraTF3cjlteTFmNGpoN3Qwc2hzczM3bGJmczY5M2dyMzVrY2NhNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1BGxGh0gsUrgvfE1ol/giphy.gif" width="200"/> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvdzNqNG55NHhoeXVjN3A3enBjcnhweXVpazltcGNzeWl6dWZuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvW7RNQX12CyjlYw1/giphy.gif" width="200"/> 
 </div>
 
-## Hi there 👋
+## Hi 👋
 - 🧠 Welcome to my GitHub! I'm Alparslan Önder, a passionate neuroscience researcher and biomedical engineer with a keen interest in exploring the complexities of the human brain.
 
 - 🎓 My academic journey has taken me through a Bachelor's and Master's degree in Biomedical Engineering, where I specialized in electronics, data processing, and programming. 
@@ -15,7 +15,7 @@
 
 - Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 - [![EEGLAB](https://img.shields.io/badge/EEGLAB-EDB120?style=for-the-badge&logo=mathworks&logoColor=white)](https://sccn.ucsd.edu/eeglab/)
 - [![FieldTrip](https://img.shields.io/badge/FieldTrip-008B8B?style=for-the-badge&logo=mathworks&logoColor=white)](http://www.fieldtriptoolbox.org/)
