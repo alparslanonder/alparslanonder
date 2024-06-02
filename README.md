@@ -1,17 +1,16 @@
-## Hi there 👋
-Welcome to my GitHub repository! Here, you'll find a collection of projects and tools reflecting my journey as a passionate neuroscience researcher and biomedical engineer. From innovative solutions in medical image analysis to cutting-edge applications of machine learning algorithms, each project embodies my dedication to unraveling the mysteries of the human brain and advancing healthcare technologies. I invite you to explore these repositories, where I leverage my expertise in neurosignal analysis, data processing, and interdisciplinary research to address critical challenges in cognitive neuroscience and clinical diagnostics. Join me on this exciting journey as we strive to make meaningful contributions to the fields of biomedical engineering and computational neuroscience.
+About Me
+I'm a passionate neuroscientist and biomedical engineer with a strong focus on computational neuroscience, neurosignal analysis, and medical image analysis. My academic journey has led me to explore the intricate workings of the brain through advanced signal processing techniques, machine learning algorithms, and interdisciplinary research collaboration.
 
-<!--
-**alparslanonder/alparslanonder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What You'll Find Here
+In this repository, you'll find a collection of my personal projects, research endeavors, and contributions to open-source initiatives. From EEG data analysis scripts to machine learning models for medical image analysis, each project reflects my commitment to leveraging technology to unravel the mysteries of the human mind and improve healthcare outcomes.
 
-Here are some ideas to get you started:
+Projects Highlights
+EEG Signal Analysis: Dive into my scripts and algorithms for EEG signal processing, including spike sorting, power spectral density analysis, and event-related potential detection.
+Medical Image Analysis: Explore my work in medical image analysis, from segmentation algorithms to classification models for diagnostic purposes.
+Interdisciplinary Research: Discover collaborative projects where I've combined neuroscience insights with machine learning techniques to address real-world challenges in healthcare.
+Get in Touch
+I'm always eager to connect with fellow researchers, developers, and enthusiasts passionate about neuroscience, biomedical engineering, and machine learning. Whether you're interested in collaborating on a project or discussing the latest advancements in the field, feel free to reach out!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connect with me on LinkedIn or drop me an email.
+
+Let's innovate together and make a positive impact on the world of healthcare!
