@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvdzNqNG55NHhoeXVjN3A3enBjcnhweXVpazltcGNzeWl6dWZuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvW7RNQX12CyjlYw1/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2pvdzNqNG55NHhoeXVjN3A3enBjcnhweXVpazltcGNzeWl6dWZuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1lvW7RNQX12CyjlYw1/giphy.gif" width="200"/>
 </div>
 
 ## Hi there 👋
@@ -15,7 +15,7 @@
 
 - Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
-##Reach me 
+## Reach me 
 
 --- 
 
