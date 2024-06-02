@@ -16,14 +16,13 @@
 - Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
 ## Tools & Technologies
-
-### MATLAB
+### MATLAB [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
 - [![EEGLAB](https://img.shields.io/badge/EEGLAB-EDB120?style=for-the-badge&logo=mathworks&logoColor=white)](https://sccn.ucsd.edu/eeglab/)
 - [![FieldTrip](https://img.shields.io/badge/FieldTrip-008B8B?style=for-the-badge&logo=mathworks&logoColor=white)](http://www.fieldtriptoolbox.org/)
 - [![Neural Spike Sorting Tools](https://img.shields.io/badge/Neural%20Spike%20Sorting%20Tools-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://github.com/klusta-team)
 - Custom scripts for electrophysiological signal analysis.
 
-### PYTHON
+### PYTHON [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 - [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
 - [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 - [![Mne](https://img.shields.io/badge/Mne-000000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAANCAIAAADZiLoqAAAACXBIWXMAABcSAAAXEgFnn9JSAAAACXZwQWcAAAAQAAAACABlWxi9AAAAJUlEQVQI12P4z8CQCQpISaNAEqBrXPAqQGg6wDlBr1c2AI1Dk2sAAAAASUVORK5CYII=&logoColor=white)](https://mne.tools/stable/index.html)
@@ -33,6 +32,7 @@
 - [![SPSS Statistical Suite](https://img.shields.io/badge/SPSS%20Statistical%20Suite-33AADD?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/products/spss-statistics)
 - [![SolidWorks](https://img.shields.io/badge/SolidWorks-00A1E0?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
 - [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+
 
 
 
