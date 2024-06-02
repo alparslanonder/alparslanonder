@@ -15,15 +15,29 @@
 
 - Join me on this journey as we unravel the mysteries of the mind, one line of code at a time. 🚀
 
-## Reach me :mailbox_with_mail:
-<div id="badges">
-  <a href="">
-    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  </a>
-  <a href="">
-    <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white"/>
-  </a>
-</div>
+## Tools & Technologies
+
+### Programming Languages and Libraries
+
+- [![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/)
+- [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+- [![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+- [![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+- [![Mne](https://img.shields.io/badge/Mne-000000?style=for-the-badge&logo=neuroimage&logoColor=white)](https://mne.tools/stable/index.html)
+
+### Neuroinformatics Tools
+
+- [![EEGLAB](https://img.shields.io/badge/EEGLAB-52C1D1?style=for-the-badge&logo=mathworks&logoColor=white)](https://sccn.ucsd.edu/eeglab/)
+- [![FieldTrip](https://img.shields.io/badge/FieldTrip-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.fieldtriptoolbox.org/)
+- [![Wave Clus](https://img.shields.io/badge/Wave%20Clus-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://doi.org/10.1016/j.jneumeth.2004.10.008)
+- [![OSort](https://img.shields.io/badge/OSort-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://doi.org/10.1016/j.jneumeth.2008.11.020)
+
+### Design and Analysis Tools
+
+- [![SPSS](https://img.shields.io/badge/SPSS-6560D0?style=for-the-badge&logo=ibm&logoColor=white)](https://www.ibm.com/analytics/spss-statistics-software)
+- [![SolidWorks](https://img.shields.io/badge/SolidWorks-00599C?style=for-the-badge&logo=solidworks&logoColor=white)](https://www.solidworks.com/)
+- [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
+
 
 --- 
 
